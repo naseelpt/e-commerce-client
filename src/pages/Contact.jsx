@@ -8,12 +8,12 @@ function Contact() {
         < >
         <div className='cb h-screen'>
             
-                 <h1 className='text-3xl font-bold  text-center pt-16'>Contact us</h1>
+                 <h1 className='text-3xl font-bold  text-center pt-16 '>Contact us</h1>
                 <h1 className='text-center md:px-52 pt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius earum eaque labore nobis placeat aspernatur recusandae, eveniet iste quibusdam consectetur enim? Nostrum, dolore? Velit autem cum ea blanditiis voluptate vel!</h1>
     
                 <div className='grid md:grid-cols-2 pt-10  '>
     
-                    <div className='flex flex-col justify-between px-32'>
+                    <div className='flex flex-col justify-between md:px-32 px-16'>
     
 
                      <div>
@@ -38,7 +38,7 @@ function Contact() {
     
     
     
-                        <div className='rounded-4xl border bg-gray-700 w-96'>
+                        <div className='rounded-4xl border bg-gray-700 md:w-96 w-screen mt-5'>
                             <div className='ps-16  pt-5  '>
                                 <input type="text" placeholder='user' className='w-64 rounded-4xl h-12 text-center bg-white'   />
                             </div>

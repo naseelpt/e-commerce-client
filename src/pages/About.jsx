@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-  <div className='cb'>
+  <div className='cb '>
         <div className='pt-5  '>
             <div className='text-3xl font-bold text-center'>About us</div>
             <p className='md:px-96 pt-3'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae ea nostrum fugit earum autem itaque similique corporis dicta exercitationem eos debitis sed excepturi veritatis deleniti, omnis non cum voluptatibus laboriosam Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quia nulla cum perspiciatis quos facilis magnam iusto repellat nisi ducimus. Et praesentium facilis eius, vel maxime cumque fugiat quidem optio.lorem. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta eos vel praesentium assumenda omnis, voluptas quod odio odit sed voluptate rem ex asperiores, iusto facere exercitationem ipsa, fugiat expedita voluptatem?</p>
