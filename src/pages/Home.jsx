@@ -31,7 +31,7 @@ useEffect(()=>{
     <div className='grid md:grid-cols-2  '>
 
     <div className='pt-12 bag  md:w-full'>
-        <img src="https://i.pinimg.com/originals/fb/bc/15/fbbc15bae2db37016750f001076aa504.png" alt="no image" className='md:h-3/4 w-screen ' />
+        <img src="https://i.pinimg.com/originals/fb/bc/15/fbbc15bae2db37016750f001076aa504.png" alt="no image" className='md:h-3/4  ' />
       </div>
 
 
