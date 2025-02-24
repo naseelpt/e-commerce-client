@@ -30,8 +30,8 @@ useEffect(()=>{
         
     <div className='grid md:grid-cols-2  '>
 
-    <div className='pt-12 bag w-96 md:w-full'>
-        <img src="https://i.pinimg.com/originals/fb/bc/15/fbbc15bae2db37016750f001076aa504.png" alt="no image" className='h-3/4' />
+    <div className='pt-12 bag  md:w-full'>
+        <img src="https://i.pinimg.com/originals/fb/bc/15/fbbc15bae2db37016750f001076aa504.png" alt="no image" className='md:h-3/4 w-screen ' />
       </div>
 
 
@@ -78,6 +78,8 @@ useEffect(()=>{
 <h1 className='text-4xl font-bold md:px-16 pt-16'>Bring your business online</h1>
 <p className='pt-3 md:px-16'>Create an ecommerce website backed by powerful tools that help you find customers, drive sales, and manage your day-to-day.</p>
 <h1 className='text-4xl font-bold pt-14 px-16'>#women</h1>
+
+
 
 <div className='md:px-5 ms-5'>
   <div className='grid md:grid-cols-4 gap-5 pt-8' >
